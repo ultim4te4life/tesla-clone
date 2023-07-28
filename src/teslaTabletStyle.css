@@ -1,0 +1,187 @@
+@media only screen and (max-width: 1100px) and (min-width: 500px) {
+  body {
+    background-color: black;
+  }
+
+  #navbarItemContainer {
+    display: none;
+  }
+
+  #bannerContainer {
+    height: 92px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 14px;
+    align-items: center;
+
+    position: relative;
+  }
+
+  .item1,
+  .item2 {
+    display: none;
+  }
+
+  .item {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    color: white;
+
+    border-color: rgb(23, 26, 32);
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+
+  #model3 {
+    background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-3-Desktop-NA.jpg");
+    position: relative;
+    width: 100vw;
+    top: 0;
+    height: 100vh;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    -moz-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  #modely {
+    background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/h_2400,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-Y-Global-Desktop");
+    position: relative;
+    width: 100vw;
+    top: 0;
+    height: 100vh;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    -moz-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  #models {
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg);
+    position: relative;
+    width: 100vw;
+    top: 0;
+    height: 100vh;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    -moz-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  #modelx {
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-X-Desktop-LHD);
+    position: relative;
+    width: 100vw;
+    top: 0;
+    height: 100vh;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    -moz-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  #solarpanel {
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/425_HP_SolarPanels_D);
+    position: relative;
+    width: 100vw;
+    top: 0;
+    height: 100vh;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    -moz-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  #solarroof {
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Homepage-SolarRoof-Desktop-Global);
+    position: relative;
+    width: 100vw;
+    top: 0;
+    height: 100vh;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    -moz-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  #Powerwall {
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Powerwall-Desktop.jpg);
+    position: relative;
+    width: 100vw;
+    top: 0;
+    height: 100vh;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    -moz-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  #Accessory {
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Accessories-Desktop-NA-APAC.jpg);
+    position: relative;
+    width: 100vw;
+    top: 0;
+    height: 100vh;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    -moz-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+}
