@@ -2,8 +2,7 @@
 
 Welcome to the Tesla Website Clone project! This project is a fully responsive clone of the Tesla website, created as one of my first projects while learning HTML and CSS.
 
-![Tesla Website Clone](https://firebasestorage.googleapis.com/v0/b/ecommerce-react-47db0.appspot.com/o/image%2FScreen%20Shot%202024-02-23%20at%207.29.52%20PM.png?alt=media&token=7466a05a-6040-4d44-aa59-11e37557cafb)
-
+(https://firebasestorage.googleapis.com/v0/b/ecommerce-react-47db0.appspot.com/o/image%2FScreen%20Shot%202024-02-23%20at%207.29.52%20PM.png?alt=media&token=7466a05a-6040-4d44-aa59-11e37557cafb)
 ## Overview
 
 This project aims to replicate the design and layout of the official Tesla website, providing a hands-on learning experience in web development. It demonstrates proficiency in HTML and CSS techniques to create a visually appealing and fully responsive website.
