@@ -2,7 +2,7 @@
 
 Welcome to the Tesla Website Clone project! This project is a fully responsive clone of the Tesla website, created as one of my first projects while learning HTML and CSS.
 
-![Tesla Website Clone](https://ibb.co/2nw44K8)
+![Tesla Website Clone](https://i.ibb.co/2nw44K8/Screen-Shot-2024-02-23-at-7-29-52-PM.png)
 
 ## Overview
 
